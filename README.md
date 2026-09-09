@@ -37,36 +37,20 @@ Cancellation behavior
 Geographic performance
 
 ## Analytical Workflow
-Raw CSV
-   ↓
-Data Loading
-   ↓
-Data Understanding
-   ↓
-Data Quality Audit
-   ↓
-Data Cleaning
-   ↓
-Post-Cleaning Validation
-   ↓
-Business Metrics
-   ↓
-Sales & Revenue Analysis
-   ↓
-Product Analysis
-   ↓
-Geographic Analysis
-   ↓
-Customer Analytics
-   ↓
-RFM & CLV
-   ↓
-Retention & Churn
-   ↓
-Revenue Intelligence
-   ↓
-Demand & Product Lifecycle
-   ↓
-Market Basket Analysis
-   ↓
-Cancellation Analytics
+Raw CSV  **&#10142;**  
+Data Loading   **&#10142;**
+Data Understanding   **&#10142;**  
+Data Quality Audit   **&#10142;**  
+Data Cleaning   **&#10142;**  
+Post-Cleaning Validation   **&#10142;**  
+Business Metrics   **&#10142;**  
+Sales & Revenue Analysis   **&#10142;**  
+Product Analysis   **&#10142;**  
+Geographic Analysis   **&#10142;**  
+Customer Analytics   **&#10142;**  
+RFM & CLV   **&#10142;**  
+Retention & Churn   **&#10142;**  
+Revenue Intelligence   **&#10142;**  
+Demand & Product Lifecycle   **&#10142;**  
+Market Basket Analysis   **&#10142;**  
+Cancellation Analytics   **&#10142;**  
