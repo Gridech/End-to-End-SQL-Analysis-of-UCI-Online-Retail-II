@@ -37,7 +37,7 @@ Cancellation behavior
 Geographic performance
 
 ## Analytical Workflow
-- **Raw CSV** **
+- **Raw CSV**
 - **Data Loading**
 - **Data Understanding**
 - **Data Quality Audit**
