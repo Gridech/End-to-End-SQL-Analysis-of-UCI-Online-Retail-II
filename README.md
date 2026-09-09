@@ -8,10 +8,15 @@ This project works with the UCI Online Retail II database to practice an end-to-
 Ultimately, the purpose of this project is to show how the raw information can be turned into a valuable asset for a company, which can be achieved by following a specific analytical pipeline.
 ## Project objectives
 The project will focus on five questions:
+
 Can the data be trusted?
+
 How and why should it be cleaned and validated?
+
 What happened with sales, products, customers, and markets?
+
 What customers and products drive the most value or costs?
+
 What can a company do with this information?
 
 # 2. Project Overview
